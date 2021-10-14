@@ -1,0 +1,60 @@
+
+  h1{
+    color: #484848;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: 1px;
+    cursor: pointer;
+    width: 160px;
+    height: 9px
+  }
+  h1 span{
+    transition: .5s linear
+  }
+  h1:hover span:nth-child(1){
+    margin-right: 1px
+  }
+  h1:hover span:nth-child(1):after{
+    content: "Search";
+  }
+  h1:hover span:nth-child(2){
+    margin-left: 10px
+  }
+  h1:hover span{
+    color: rgb(9, 8, 37);
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #fff, 
+                 0 0 40px #fff;
+  }
+
+  /* ////// */
+
+  h2{
+    color: #484848;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: 1px;
+    cursor: pointer;
+    width: 160px;
+    height: 9px
+  }
+  h2 span{
+    transition: .5s linear
+  }
+  h2:hover span:nth-child(1){
+    margin-right: 5px
+  }
+  h2:hover span:nth-child(1):after{
+    content: "Phone";
+  }
+  h2:hover span:nth-child(2){
+    margin-left: 30px
+  }
+  h2:hover span{
+    color: rgb(9, 8, 37);
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #fff, 
+                 0 0 40px #fff;
+  }

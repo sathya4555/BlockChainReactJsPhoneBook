@@ -1,0 +1,77 @@
+body{
+    background-image: radial-gradient(#3EC9F8,#5E6A91);
+    /* background-image: radial-gradient(#5E6A91,#3EC9F8); */
+
+}
+.formdiv {
+    display:table;/* shrinks to fit content */
+    margin:auto;
+    margin-top: 70px;
+    background-image: radial-gradient(#c9c74f,#5E6A91);
+    border-radius: 10px;
+    transition: 0.9s all;
+}
+
+.afterformdiv{
+    display:table;/* shrinks to fit content */
+    margin:auto;
+    margin-top: 10px;
+    background-image: radial-gradient(#c9c74f,#5E6A91);
+    border-radius: 10px;
+    transition: 0.9s all;
+    /* width: 200px; */
+}
+
+.resultDiv{
+    display:table;/* shrinks to fit content */
+    margin:auto;
+    margin-top: 30px;
+    background-image: radial-gradient(#c9c74f,#5E6A91);
+    border-radius: 10px;
+    transition: 0.9s all;
+}
+/* 
+button:hover
+{
+    -webkit-transform: scale(.5);
+    -ms-transform: scale(.5);
+    transform: scale(.5);
+        transition: 0.6s all;
+        animation: shake 0.9s;
+        animation-iteration-count: infinite;
+} */
+.form{
+    margin: 20px;
+}
+
+.header{
+    background-color: rgb(1, 19, 58);
+    padding:1.5rem;
+}
+
+input{
+    width: 400px;
+    background-color: black;
+    color: white;
+}
+
+img:hover {
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    50% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    /* 30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    50% { transform: translate(-3px, 1px) rotate(0deg); }
+    50% { transform: translate(3px, 1px) rotate(-1deg); } */
+    50% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+
+

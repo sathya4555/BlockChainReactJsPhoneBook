@@ -1,0 +1,60 @@
+// <div >
+//     <form style={{margin: "auto",backgroundColor:"green"}}>
+//     <table>
+//         <tr>
+//             <td>
+//                 <input onChange={(event) => setphoneNumber(event.target.value)} placeholder="Enter phone number"></input>
+//             </td>
+//             <td></td>
+//             <td>
+//                 <button type="button" onClick={(e) => addPhoneNumber(e)}>Sumbit Phone Number</button>
+//             </td>
+//         </tr>
+//     </table>
+//     </form>
+// {flag && menu}
+
+
+// <form>
+//     <table>
+//         <tr>
+//             <td>
+//                 <input onChange={(event) => setaddress(event.target.value)} placeholder="Enter Address"></input>
+//             </td>
+//             <td></td>
+//             <td>
+//                 <button type="button" onClick={(e) => ViewPhone(e)}>Search Phone</button>
+//             </td>
+//         </tr>
+//     </table>
+//     </form>
+//     {flag1 && menu1}
+
+//     <form>
+//     <table>
+//         <tr>
+//             <td>
+//             <div class="input-field">
+//                 <input type="text" onChange={(event) => setphone(event.target.value)} id="name"    required />
+//                  <label for="name">Enter PhoneNumber</label>
+//             </div>
+//                 {/* <input onChange={(event) => setphone(event.target.value)} placeholder="Enter Phone"></input> */}
+//             </td>
+//             <td></td>
+//             <td>
+//                 <button type="button" onClick={(e) => ViewAddress(e)}>Search Address</button>
+//                 <div ontouchstart="">
+//                     <div class="button">
+//                    <a> <button type="button" onClick={(e) => ViewAddress(e)}>Search Address</button></a>
+//                     </div>
+//                     </div>          
+//             </td>
+
+//             <td>
+//                 {/* <button type="button" onClick={(e) => onSubmit(e)}>OnSubmit</button> */}
+//             </td>
+//         </tr>
+//     </table>
+//     </form>
+//     {flag3 && menu2}
+// </div>
