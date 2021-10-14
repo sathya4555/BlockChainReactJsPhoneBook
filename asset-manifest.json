@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BlockChainReactJsPhoneBook/static/css/main.94e2647c.chunk.css",
+    "main.js": "/BlockChainReactJsPhoneBook/static/js/main.8cd830bb.chunk.js",
+    "main.js.map": "/BlockChainReactJsPhoneBook/static/js/main.8cd830bb.chunk.js.map",
+    "runtime-main.js": "/BlockChainReactJsPhoneBook/static/js/runtime-main.02a77f78.js",
+    "runtime-main.js.map": "/BlockChainReactJsPhoneBook/static/js/runtime-main.02a77f78.js.map",
+    "static/js/2.1cf9d917.chunk.js": "/BlockChainReactJsPhoneBook/static/js/2.1cf9d917.chunk.js",
+    "static/js/2.1cf9d917.chunk.js.map": "/BlockChainReactJsPhoneBook/static/js/2.1cf9d917.chunk.js.map",
+    "static/js/3.f21ce0ac.chunk.js": "/BlockChainReactJsPhoneBook/static/js/3.f21ce0ac.chunk.js",
+    "static/js/3.f21ce0ac.chunk.js.map": "/BlockChainReactJsPhoneBook/static/js/3.f21ce0ac.chunk.js.map",
+    "index.html": "/BlockChainReactJsPhoneBook/index.html",
+    "static/css/main.94e2647c.chunk.css.map": "/BlockChainReactJsPhoneBook/static/css/main.94e2647c.chunk.css.map",
+    "static/js/2.1cf9d917.chunk.js.LICENSE.txt": "/BlockChainReactJsPhoneBook/static/js/2.1cf9d917.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BlockChainReactJsPhoneBook/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a77f78.js",
+    "static/js/2.1cf9d917.chunk.js",
+    "static/css/main.94e2647c.chunk.css",
+    "static/js/main.8cd830bb.chunk.js"
+  ]
+}
